@@ -19,7 +19,6 @@
 
 *This project may be used and distributed only with attribution to the author (CasualMan228 or ConusGames).*
 
-
 ---
 
 [РУССКИЙ]
